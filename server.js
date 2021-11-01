@@ -4,7 +4,7 @@ const campsiteRouter = require('./routes/campsiteRouter');
 
 const hostname = 'localhost';
 
-const port = 3000;
+const port = 4000;
 
 const app = express();
 app.use(morgan('dev'));
